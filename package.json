@@ -1,0 +1,21 @@
+{
+  "name": "zeus_project",
+  "version": "1.0.0",
+  "description": "pet project based on Node.js and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd ./server && npm start",
+    "install": "cd ./server && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neformen/zeus_project.git"
+  },
+  "author": "Vasyl Motsyak & Mykhailo Hubal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neformen/zeus_project/issues"
+  },
+  "homepage": "https://github.com/neformen/zeus_project#readme"
+}
