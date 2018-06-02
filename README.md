@@ -1,7 +1,10 @@
 # zeus_project
 
-#Install dependencies
+# Install dependencies
 `npm install`
 
-#Start project
+# Start project
 `npm start`
+
+# Release project
+`npm run release`
